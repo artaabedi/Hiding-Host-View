@@ -1,4 +1,4 @@
-# Hiding-Host-Views
+# Hiding-Host-View
 
 ## Hiding host sources from public view.
 
