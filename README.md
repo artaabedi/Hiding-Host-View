@@ -2,7 +2,7 @@
 
 ## Hiding host sources from public view.
 
-* Be sure to edit the lines [9, 213, 216] and then upload it to the [Public_Html] folder. ✔️
+* Be sure to edit the lines: [9, 213, 216] and then upload it to the [Public_Html] folder ✔️.
 
 Preview:
 
