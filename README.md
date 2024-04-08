@@ -1,6 +1,6 @@
 # Hide-Host-Views
 
-## Hiding host sources from public view.
+## Hide host sources from public view.
 
 * Be sure to edit the lines: [<b>9, 213, 216<b>] and then upload it to the (<b>Public_Html</b>) folder ✔️.
 
