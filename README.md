@@ -6,3 +6,5 @@
 
 Preview:
 
+<img src="Img/img.png"/>
+
