@@ -6,7 +6,7 @@ Step 2 ; <b>upload to (Public_Html) folder ✔️</b>
 
 <b>Preview</b>:
 
-https://artaabedi.s90.site/
+https://arta.s93.site/
 
 <img src="Img/img.png"/>
 
